@@ -5,6 +5,7 @@ This is my first project..I love this dummy work
 ### Features
 * home
 *about
+*
 
 ##### [link to the diployment site](www.https://github.com/murimi-cpu/website)
 ### LICENSE [MIT](MIT License)
